@@ -5,4 +5,6 @@ class ApplicationController < ActionController::Base
 
   hogehoge
   fuga
+
+  remote
 end

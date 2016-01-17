@@ -7,4 +7,5 @@ class ApplicationController < ActionController::Base
   fuga
 
   remote
+  sdsds
 end
